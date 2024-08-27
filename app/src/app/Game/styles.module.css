@@ -1,0 +1,19 @@
+
+.one {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.button {
+    width: 100px;
+    height: 20px;
+    margin-left: 40px;
+}
+.block {
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    left: 800px;
+    top: 300px;
+    gap: 120px;
+}
